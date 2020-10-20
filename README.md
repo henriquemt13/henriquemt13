@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 <center>
   <img aling="center" src="https://github.com/henriquemt13/henriquemt13/blob/main/perfil.jpg"/>
+  <table>  
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemt13&hide=html&layout=compact&theme=buefy"</td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=henriquemt13&theme=buefy"/></td>
+    </tr>   
+  </table>
 </center> 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henriquemt13&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemt13&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
