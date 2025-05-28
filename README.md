@@ -2,7 +2,7 @@
 
 I'm Henrique, a Backend Developer at @Matrix-Energia. 
 <br>
-I hold an MBA in DevOps Engineering & Cloud Solutions and I'm currently pursuing a Postdegree focused on Java-based Architecture and Development.
+I hold an MBA in DevOps Engineering & Cloud Solutions and also a Postdegree focused on Java-based Architecture and Development.
 
 <!--
 **henriquemt13/henriquemt13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
